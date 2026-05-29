@@ -23,3 +23,9 @@
 2a12:bec3::/48,US,US-MO,Kansas,64116
 2a12:bec4:1de0::/44,NL,NH,Amsterdam,1011
 2a12:bec4:1e50::/44,AL,AL-11,Tirana,1001
+2a12:bec4:150::/44,EE,EE-37,Tallinn,
+2a12:bec4:1460::/44,DE,DE-HE,Frankfurt am Main,
+2a12:bec4:1a70::/44,FI,FI-18,Helsinki,
+2a12:bec4:1a80::/44,NL,NL-NH,Amsterdam,
+2a12:bec4:1c90::/44,PL,PL-MZ,Warsaw,
+2a12:bec4:1c70::/44,SE,SE-AB,Stockholm,
